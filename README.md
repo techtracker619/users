@@ -110,7 +110,8 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 #### 🛠️ Step 7: Edit the GPO
 - Right-click `SecurityPolicy` → **Edit**
 
-📸 Screenshot: `edit-gpo.png`
+![imagealt](https://github.com/techtracker619/users/blob/8c203e342b6d5d8f7ad3c02582130469529de09c/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_21_48_55.png)
+
 
 ---
 
@@ -119,9 +120,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
   `Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Password Policy`
 - Double-click **Minimum password age**
 - Check **Define this policy** and set to **60 days**
-
-📸 Screenshot: `set-password-policy.png`
-
+![imagealt](
 ---
 
 #### 🔗 Step 9: Link GPO to Domain
