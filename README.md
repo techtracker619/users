@@ -102,7 +102,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 - Right-click **Group Policy Objects** → **New**
 - Name it: `SecurityPolicy`
 
-![imagealt](
+![imagealt](https://github.com/techtracker619/users/blob/73f6c77456ce64715653e0a65c5efd0f50d495ab/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_20_41_22.png)
 
 ---
 
