@@ -33,7 +33,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
    - HR
    - Finance
 
-![imagealt](
+![imagealt[](](https://github.com/techtracker619/users/blob/004bc9ce11d6c81f76a7de5f3202f1397af89d26/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_03_54.png)
 
 ---
 
