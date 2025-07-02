@@ -94,7 +94,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 #### 🧭 Step 5: Open Group Policy Management
 - Server Manager → Tools → **Group Policy Management**
 
-![imagealt](
+![imagealt](https://github.com/techtracker619/users/blob/1fcc623acd9b8fb2baaedd7b2daa99ac14a57d2d/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_20_33_06.png)
 
 ---
 
@@ -102,7 +102,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 - Right-click **Group Policy Objects** → **New**
 - Name it: `SecurityPolicy`
 
-📸 Screenshot: `create-new-gpo.png`, `gpo-name-entry.png`
+![imagealt](
 
 ---
 
