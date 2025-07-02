@@ -54,10 +54,9 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 🧠 Repeat this step for each user you want to create.
 
 ![imagealt](https://github.com/techtracker619/users/blob/899da3f7fb4c7d28002e5f799e17cb2b020e4387/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_08_51.png)
+![imagealt](
 
-### Method 2: Using PowerShell (script added later)
 
-_This will be added in the scripting section._
 
 ---
 
