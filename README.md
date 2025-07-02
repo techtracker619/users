@@ -89,31 +89,50 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 
 ---
 
-## 📂 Step 5: Optional — Prepare Folder Permissions
+## 🔐 Group Policy Management (GPO) – GUI Only
 
-1. On the file server, create a new folder (e.g., `\\ServerName\IT_Share`)
-2. Right-click > **Properties** > **Security** tab
-3. Add your AD group (`IT_Support`) and assign:
-   - Modify
-   - Read & execute
-   - List folder contents
+#### 🧭 Step 5: Open Group Policy Management
+- Server Manager → Tools → **Group Policy Management**
 
-4. Go to the **Sharing** tab > Advanced Sharing > Set permissions accordingly
+![imagealt](
 
 ---
 
-## 📸 Screenshots to Include
+#### 📁 Step 6: Create New GPO
+- Right-click **Group Policy Objects** → **New**
+- Name it: `SecurityPolicy`
 
-> 📁 Create a `screenshots/` folder in this repo and upload these
+📸 Screenshot: `create-new-gpo.png`, `gpo-name-entry.png`
 
-| Step | Screenshot Description |
-|------|------------------------|
-| OU Structure | Show your OU layout (Company > IT/HR/Finance) |
-| Create User GUI | Wizard screen creating `John Smith` |
-| Group Creation | Properties of your `IT_Support` group |
-| Group Membership | Member tab showing users added |
-| Folder Permissions | NTFS permissions with group added |
-| Optional: PowerShell | AD user or group creation script run |
+---
+
+#### 🛠️ Step 7: Edit the GPO
+- Right-click `SecurityPolicy` → **Edit**
+
+📸 Screenshot: `edit-gpo.png`
+
+---
+
+#### 🔐 Step 8: Set Password Policy
+- Navigate to:  
+  `Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Password Policy`
+- Double-click **Minimum password age**
+- Check **Define this policy** and set to **60 days**
+
+📸 Screenshot: `set-password-policy.png`
+
+---
+
+#### 🔗 Step 9: Link GPO to Domain
+- Right-click your domain (e.g., `mylab.local`) → **Link an Existing GPO**
+- Select `SecurityPolicy` → Click **OK**
+
+📸 Screenshot: `link-gpo-to-ou.png`
+
+---
+
+---
+
 
 ---
 
