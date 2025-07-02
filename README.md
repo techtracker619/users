@@ -127,7 +127,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 - Right-click your domain (e.g., `mylab.local`) → **Link an Existing GPO**
 - Select `SecurityPolicy` → Click **OK**
 
-📸 Screenshot: `link-gpo-to-ou.png`
+![imagealt
 
 ---
 
