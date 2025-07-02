@@ -120,7 +120,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
   `Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Password Policy`
 - Double-click **Minimum password age**
 - Check **Define this policy** and set to **60 days**
-![imagealt](
+![imagealt](https://github.com/techtracker619/users/blob/57c19313aeca4a7318f257fa76150b0abe0f286a/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_21_51_48.png)
 ---
 
 #### 🔗 Step 9: Link GPO to Domain
