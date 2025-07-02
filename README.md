@@ -103,6 +103,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 - Name it: `SecurityPolicy`
 
 ![imagealt](https://github.com/techtracker619/users/blob/73f6c77456ce64715653e0a65c5efd0f50d495ab/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_20_41_22.png)
+![imagealt](https://github.com/techtracker619/users/blob/a6e259a6aa383444f7911b0713d1b6ebd2cd5072/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_20_41_59.png)
 
 ---
 
