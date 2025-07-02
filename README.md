@@ -35,7 +35,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 
 ![imagealt[](](https://github.com/techtracker619/users/blob/004bc9ce11d6c81f76a7de5f3202f1397af89d26/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_03_54.png)
 ![imagealt](https://github.com/techtracker619/users/blob/bd7d63fb3c4325fa18b8067b4f26cec2d426ec86/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_04_28.png)
-![imagealt](
+![imagealt](https://github.com/techtracker619/users/blob/2f29fea433c5310273c8f0409c0c3f930f49f670/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_06_53.png)
 
 ---
 
@@ -53,7 +53,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 
 🧠 Repeat this step for each user you want to create.
 
-![imagealt](https://github.com/techtracker619/users/blob/8d68728fac6b29e69cce1c066e560ac4c4f58413/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_10_34.png)
+![imagealt](
 
 ### Method 2: Using PowerShell (script added later)
 
