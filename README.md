@@ -55,6 +55,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 
 ![imagealt](https://github.com/techtracker619/users/blob/899da3f7fb4c7d28002e5f799e17cb2b020e4387/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_08_51.png)
 ![imagealt](https://github.com/techtracker619/users/blob/522b9423acaf86a6273ccaee78154ef2efb244e4/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_10_34.png)
+![imagealt](https://github.com/techtracker619/users/blob/6653091b6dec7719924d0cd4ee804bab4cb0220d/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_10_45.png)
 
 
 
