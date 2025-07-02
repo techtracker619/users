@@ -72,6 +72,9 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 
 🧠 You can create more groups like `HR_Admins`, `Finance_ReadOnly`, etc.
 
+![imagealt](https://github.com/techtracker619/users/blob/f650bf97f641e640ac079ee3a6580ba03113e337/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_16_48.png)
+
+
 ---
 
 ## ➕ Step 4: Add Users to Groups
