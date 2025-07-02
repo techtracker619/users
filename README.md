@@ -85,6 +85,8 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 
 ✅ Best practice: Assign permissions to groups, not individuals.
 
+![imagealt](https://github.com/techtracker619/users/blob/42a82daaa371c6f8f27a2e5a0fe822f80b953657/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_17_58_06.png)
+
 ---
 
 ## 📂 Step 5: Optional — Prepare Folder Permissions
