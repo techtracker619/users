@@ -10,7 +10,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 - Create Active Directory users (GUI & PowerShell methods)
 - Create security groups and add members
 - Prepare folder permissions (NTFS/share) based on groups
-- Document your progress with screenshots
+
 
 ---
 
@@ -33,7 +33,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
    - HR
    - Finance
 
-📝 Optional: Replicate real departments or teams from your lab scenario
+![imagealt](
 
 ---
 
@@ -119,12 +119,6 @@ _This will be added in the scripting section._
 
 ---
 
-## 🛠️ Scripts & Automation (Coming Soon)
-
-We’ll later add:
-- PowerShell to create OUs
-- PowerShell to create users from a CSV
-- PowerShell to create groups and assign memberships
 
 ---
 
