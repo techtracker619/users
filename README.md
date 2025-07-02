@@ -127,7 +127,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
 - Right-click your domain (e.g., `mylab.local`) → **Link an Existing GPO**
 - Select `SecurityPolicy` → Click **OK**
 
-![imagealt
+![imagealt](https://github.com/techtracker619/users/blob/fde0aecd5f007b3954a53abfe6f5c83abc827314/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_21_56_54.png)
 
 ---
 
