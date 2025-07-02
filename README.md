@@ -34,7 +34,7 @@ This beginner-friendly lab walks you through the core Active Directory tasks eve
    - Finance
 
 ![imagealt[](](https://github.com/techtracker619/users/blob/004bc9ce11d6c81f76a7de5f3202f1397af89d26/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_03_54.png)
-![imagealt](
+![imagealt](https://github.com/techtracker619/users/blob/bd7d63fb3c4325fa18b8067b4f26cec2d426ec86/screenshots/VirtualBox_AC-DC-SERVER_24_06_2025_01_04_28.png)
 
 ---
 
