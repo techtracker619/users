@@ -1,0 +1,42 @@
+<#
+.SYNOPSIS
+    Create Organizational Units, Users, and Security Groups in Active Directory (GUI Lab PowerShell Version)
+
+.AUTHOR
+    Anthony Jenkins
+#>
+
+# --- Variables ---
+$domain = "bytecorp.local"
+
+# --- Create Organizational Units ---
+New-ADOrganizationalUnit -Name "Employees" -Path "DC=bytecorp,DC=local"
+New-ADOrganizationalUnit -Name "IT" -Path "DC=bytecorp,DC=local"
+New-ADOrganizationalUnit -Name "HR" -Path "DC=bytecorp,DC=local"
+
+# --- Create Users ---
+New-ADUser -Name "John Doe" `
+           -GivenName "John" `
+           -Surname "Doe" `
+           -SamAccountName "jdoe" `
+           -UserPrincipalName "jdoe@$domain" `
+           -AccountPassword (ConvertTo-SecureString "Password123!" -AsPlainText -Force) `
+           -Enabled $true `
+           -Path "OU=Employees,DC=bytecorp,DC=local"
+
+New-ADUser -Name "Alice Smith" `
+           -GivenName "Alice" `
+           -Surname "Smith" `
+           -SamAccountName "asmith" `
+           -UserPrincipalName "asmith@$domain" `
+           -AccountPassword (ConvertTo-SecureString "Password123!" -AsPlainText -Force) `
+           -Enabled $true `
+           -Path "OU=Employees,DC=bytecorp,DC=local"
+
+# --- Create Security Groups ---
+New-ADGroup -Name "IT_Admins" -GroupScope Global -GroupCategory Security -Path "OU=IT,DC=bytecorp,DC=local"
+New-ADGroup -Name "HR_Team" -GroupScope Global -GroupCategory Security -Path "OU=HR,DC=bytecorp,DC=local"
+
+# --- Add Users to Groups ---
+Add-ADGroupMember -Identity "IT_Admins" -Members "jdoe"
+Add-ADGroupMember -Identity "HR_Team" -Members "asmith"
